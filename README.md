@@ -1,8 +1,8 @@
 # GATK_pipeline_customized
 
-This a collection of scripts that were generated in order to adapt GATK pipeline for reduced representation sequencing approach like GBS or RAD-seq to perform SNP calling.
+This collection of scripts was generated in order to adapt GATK pipeline for reduced representation sequencing approaches like GBS or RAD-seq to perform SNP calling.
 
-The scripts are numbered in the order of application and perform the functions:
+The scripts are numbered in the order of application and perform the following functions:
 
 1_GATK_pipeline_run_demultiplexing.sh - uses barcodes table to demultiplex reads into sample-specific fastq.gz bins
 
