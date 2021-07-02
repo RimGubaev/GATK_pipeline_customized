@@ -31,7 +31,7 @@ picard v.2.18.22
 GATK v.4.1.0.0
 
 
-Disclaimer: presented scripts are NOT ready-to-go solution, however may serev a as a n example on how to adapt GATK pipeline for GBS and RAD seq data. For more details and help don't hestitate to contact.
+Disclaimer: presented scripts are NOT ready-to-go solution, however may sereve a as an example on how to adapt GATK pipeline for GBS and RAD seq data. For more details and help don't hestitate to contact.
 
 Email: rimgubaev@gmail.com
 
